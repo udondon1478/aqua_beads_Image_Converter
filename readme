@@ -1,5 +1,4 @@
 入力画像に使いたいものを{input.jpg}に変更
-python image_trans1.pyで起動
+python image_converter.pyで起動
 wordのA4サイズの用紙に対して画像を配置
-配置した画像を右クリックし、「配置とサイズ」から倍率を40%に変更
 普通に印刷すればOK
